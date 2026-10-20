@@ -1,0 +1,23 @@
+GitHub Actions Workflow: Best Cars CI
+Repository: https://github.com/sajltaha/sajltaha-fullstack-capstone
+Run: https://github.com/sajltaha/sajltaha-fullstack-capstone/actions/runs/39446940689
+Job: test-and-build
+Status: completed successfully
+
+Executed steps:
+✓ Checkout repository
+✓ Set up Python 3.12
+✓ Install Python dependencies
+✓ Run Django checks
+✓ Run Django migrations
+✓ Run Django tests
+✓ Set up Node.js 20
+✓ Install frontend dependencies
+✓ Build React frontend
+
+Selected terminal output:
+2026-10-20T15:17:08Z Ran 3 tests in 0.738s
+2026-10-20T15:17:08Z OK
+2026-10-20T15:17:35Z Creating an optimized production build...
+2026-10-20T15:17:42Z Compiled successfully.
+2026-10-20T15:17:42Z The build folder is ready to be deployed.
